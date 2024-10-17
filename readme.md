@@ -34,13 +34,6 @@ The model's architecture is in `models/DCGAN.py`.
 
 To train the model, run
 
-
-### DCGAN
-
-The model's architecture is in `models/DCGAN.py`.
-
-To train the model, run
-
 ```bash
 ./train_gan.sh
 ```
