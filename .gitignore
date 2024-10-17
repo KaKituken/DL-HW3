@@ -1,0 +1,7 @@
+save/*
+run/*
+data/*
+.DS_Store
+__pycache__/*
+wandb/*
+*.onnx
